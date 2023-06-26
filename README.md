@@ -7,6 +7,6 @@ and if any user logs in  with a student credential, the system will tell the use
 Here, in the source code, the FullSystem is the entire project, and the quiz bank is in the Quizlist.json file.
 
 ## Technology used:
-- IntelliJij
+- Intellij
 - Jdk 11.0.18
   
