@@ -1,0 +1,241 @@
+[
+  {
+    "answerkey": "3",
+    "option 3": "Decision Table testing",
+    "option 4": "Adhoc Testing",
+    "question": "Which is whitebox testing technique?",
+    "option 1": "Equivalent Partitioning"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Load Testing",
+    "option 4": " Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Software",
+    "option 4": "None of them",
+    "question": "Which quality is measured as a foundation of requirement?",
+    "option 1": "Hardware",
+    "option 2": "Programmers"
+  },
+  {
+    "answerkey": "3",
+    "option 3": " Evaluations to be performed",
+    "option 4": "Documents that are produced by the SQA team",
+    "question": "Select which option is not true about SQA?",
+    "option 1": " Audits and reviews to be performed by the team",
+    "option 2": "Amount of technical work to be performed"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "test equipment reviews",
+    "option 4": "quality planning reviews",
+    "question": "Which of the following is not included in prevention cost?",
+    "option 1": "equipment calibration and maintenance",
+    "option 2": "formal technical reviews"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "testing",
+    "option 4": "quality planning",
+    "question": "Select the option which is not an appraisal in SQA?",
+    "option 1": "inter-process inspection",
+    "option 2": "maintanance"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "warranty work",
+    "option 4": "solution",
+    "question": "Select which one is not an  External failure costs?",
+    "option 1": "testing",
+    "option 2": "helping support"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "A stage of all projects",
+    "option 4": "None",
+    "question": "What is testing?",
+    "option 1": "Finding broken code",
+    "option 2": "Evaluating deliverable to find errors"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Integration Testing",
+    "option 4": "All of the above",
+    "question": "What are the various Testing Levels?",
+    "option 1": "Unit Testing",
+    "option 2": "System Testing"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "feature testing",
+    "option 4": "sanity testing",
+    "question": "What is smoke testing?",
+    "option 1": "Basic functionality testing",
+    "option 2": "one module testing"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Rapid",
+    "option 4": "Interactive",
+    "question": "Which model is a waterfal model?",
+    "option 1": "Linear",
+    "option 2": "Iterative"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Mistake in the programme",
+    "option 4": "All of the above",
+    "question": "What is fault?",
+    "option 1": "Defect in the programme",
+    "option 2": "Error in the Programme"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "System",
+    "option 4": "Unit",
+    "question": "Which testing is in the form of alpha and beta testing?",
+    "option 1": "Acceptance",
+    "option 2": "Integration"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "System Testing",
+    "option 4": "Behavior Testing",
+    "question": "Which testing is also known as Functional testing?",
+    "option 1": "Unit testing",
+    "option 2": "Integration Testing"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Regression testing",
+    "option 4": "Smoke Testing",
+    "question": "Confidence testing refers to which one?",
+    "option 1": "Retesting",
+    "option 2": "Smoke testing"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Tester",
+    "option 4": "Devoloper",
+    "question": "Who is responsible for the acceptance testing?",
+    "option 1": "Customer",
+    "option 2": "Designer"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Quality Assurance",
+    "option 4": "None",
+    "question": "Degree to which design specifications are followed in manufacturing the product is called?",
+    "option 1": "Quality control",
+    "option 2": "Quality of conformance"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "Quality Planning",
+    "option 4": "Testing",
+    "question": "Which of the following is not an appraisal cost in SQA?",
+    "option 1": "Quality Assurance",
+    "option 2": "Maintanance"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "SQA group",
+    "option 4": "None",
+    "question": "Who identifies, documents, and verifies that corrections have been made to the software?",
+    "option 1": "Project Manager",
+    "option 2": "Project Team"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Both",
+    "option 4": "None",
+    "question": "Alpha testing is done at where?",
+    "option 1": "Developers end",
+    "option 2": "Users end"
+  },
+  {
+    "answerkey": "3",
+    "option 3": "impractical but possible",
+    "option 4": "impractical and impossible",
+    "question": "What is Exhaustive testing?",
+    "option 1": "always possible",
+    "option 2": "practically possible"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "code path analysis",
+    "option 4": "None",
+    "question": "Which of the following is black box testing?",
+    "option 1": "basic path testing",
+    "option 2": "boundary value analysis"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "grey box testing",
+    "option 4": "none",
+    "question": "Behavioral testing is?",
+    "option 1": "white box testing",
+    "option 2": "black box testing"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Testers",
+    "option 4": "All of the above",
+    "question": "Unit testing is done by",
+    "option 1": "Users",
+    "option 2": "Developers"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "beta testing",
+    "option 4": "performance testing",
+    "question": "Which of the following is non-functional testing?",
+    "option 1": "black box testing",
+    "option 2": "white box testing"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "Grey box testing",
+    "option 4": "none",
+    "question": "The testing in which code is checked?",
+    "option 1": "Black box Testing",
+    "option 2": "White Box Testing"
+  },
+  {
+    "answerkey": "1",
+    "option 3": "Acceptance testing",
+    "option 4": "Integration testing",
+    "question": "Testing of individual components by the developers are comes under which type of testing?",
+    "option 1": "Unit testing",
+    "option 2": "System Testing"
+  },
+  {
+    "answerkey": "2",
+    "option 3": "procedure errors",
+    "option 4": "none",
+    "question": "What is the main purpose of integration testing?",
+    "option 1": "design errors",
+    "option 2": "interface errors"
+  },
+  {
+    "answerkey": "4",
+    "option 3": "Both",
+    "option 4": "Unit Testing",
+    "question": "What is normally considered as an adjunct to the coding step?",
+    "option 1": "Intigration Testing",
+    "option 2": "Coding Testing"
+  }
+]
